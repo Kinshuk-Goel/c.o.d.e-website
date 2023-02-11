@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/img.gif");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("/images/img.gif");
   background-position: 50% 50%;
   min-height: 974px;
 }
@@ -232,7 +232,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: url("images/default-image.jpg");
+  background-image: url("/images/default-image.jpg");
   background-position: 50% 50%;
 }
 
@@ -243,7 +243,7 @@
 .u-section-2 .u-image-2 {
   width: 180px;
   height: 180px;
-  background-image: url("images/1.jpg");
+  background-image: url("/images/1.jpg");
   background-position: 50% 50%;
   margin: 8px auto 0;
 }
@@ -276,7 +276,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: url("images/default-image.jpg");
+  background-image: url("/images/default-image.jpg");
   background-position: 50% 50%;
 }
 
@@ -288,7 +288,7 @@
   width: 180px;
   height: 180px;
   object-position: 50% 0%;
-  background-image: url("images/3.jpg");
+  background-image: url("/images/3.jpg");
   background-position: 50% 50%;
   margin: 8px auto 0;
 }
@@ -321,7 +321,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: url("images/default-image.jpg");
+  background-image: url("/images/default-image.jpg");
   background-position: 50% 50%;
 }
 
@@ -332,7 +332,7 @@
 .u-section-2 .u-image-6 {
   width: 180px;
   height: 180px;
-  background-image: url("images/2-15.jpg");
+  background-image: url("/images/2-15.jpg");
   background-position: 50% 50%;
   margin: 8px auto 0;
 }
@@ -364,7 +364,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: url("images/default-image.jpg");
+  background-image: url("/images/default-image.jpg");
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
   background-position: 50% 50%;
 }
@@ -376,7 +376,7 @@
 .u-section-2 .u-image-8 {
   width: 180px;
   height: 180px;
-  background-image: url("images/2.jpg");
+  background-image: url("/images/2.jpg");
   background-position: 50% 50%;
   margin: 8px auto 0;
 }
@@ -409,7 +409,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: url("images/default-image.jpg");
+  background-image: url("/images/default-image.jpg");
   background-position: 50% 50%;
 }
 
@@ -420,7 +420,7 @@
 .u-section-2 .u-image-10 {
   width: 180px;
   height: 180px;
-  background-image: url("images/2.jpg");
+  background-image: url("/images/2.jpg");
   background-position: 50% 50%;
   margin: 8px auto 0;
 }
@@ -453,7 +453,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: url("images/default-image.jpg");
+  background-image: url("/images/default-image.jpg");
   background-position: 50% 50%;
 }
 
@@ -464,7 +464,7 @@
 .u-section-2 .u-image-12 {
   width: 180px;
   height: 180px;
-  background-image: url("images/2.jpg");
+  background-image: url("/images/2.jpg");
   background-position: 50% 50%;
   margin: 8px auto 0;
 }
@@ -497,7 +497,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: url("images/default-image.jpg");
+  background-image: url("/images/default-image.jpg");
   background-position: 50% 50%;
 }
 
@@ -508,7 +508,7 @@
 .u-section-2 .u-image-14 {
   width: 180px;
   height: 180px;
-  background-image: url("images/2.jpg");
+  background-image: url("/images/2.jpg");
   background-position: 50% 50%;
   margin: 8px auto 0;
 }
@@ -541,7 +541,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: url("images/default-image.jpg");
+  background-image: url("/images/default-image.jpg");
   background-position: 50% 50%;
 }
 
@@ -552,7 +552,7 @@
 .u-section-2 .u-image-16 {
   width: 180px;
   height: 180px;
-  background-image: url("images/2.jpg");
+  background-image: url("/images/2.jpg");
   background-position: 50% 50%;
   margin: 8px auto 0;
 }
@@ -585,7 +585,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: url("images/default-image.jpg");
+  background-image: url("/images/default-image.jpg");
   background-position: 50% 50%;
 }
 
@@ -596,7 +596,7 @@
 .u-section-2 .u-image-18 {
   width: 180px;
   height: 180px;
-  background-image: url("images/2.jpg");
+  background-image: url("/images/2.jpg");
   background-position: 50% 50%;
   margin: 8px auto 0;
 }
