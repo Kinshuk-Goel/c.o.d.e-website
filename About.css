@@ -25,7 +25,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  text-shadow: 0px 0px 8px rgba(128,128,128,1);
+  text-shadow: 0px 2px 8px rgba(128,128,128,1);
   margin: 158px 6px 0 101px;
 }
 
@@ -210,7 +210,7 @@
 
 .u-section-2 .u-list-1 {
   grid-template-rows: auto auto;
-  margin: 82px auto 60px;
+  margin: 82px auto 0;
 }
 
 .u-section-2 .u-repeater-1 {
@@ -332,7 +332,7 @@
 .u-section-2 .u-image-6 {
   width: 180px;
   height: 180px;
-  background-image: url("images/2-15.jpg");
+  background-image: url("images/2.jpg");
   background-position: 50% 50%;
   margin: 8px auto 0;
 }
@@ -631,6 +631,11 @@
   right: 10px;
   width: 40px;
   height: 40px;
+}
+
+.u-section-2 .u-text-29 {
+  font-weight: 700;
+  margin: 30px auto 60px;
 }
 
 @media (max-width: 1199px) {
